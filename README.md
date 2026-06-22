@@ -72,3 +72,15 @@ flutter run -d chrome
 4. **QR Table Ordering**: Table scan simulation allowing instantly connecting to specific seating tables.
 5. **Multi-language**: Immediate hot-swappable toggle support for English, Sinhala, and Tamil.
 6. **Loyalty Points & Online Reservations**: Built-in tables scheduling and point multiplier wallets synced directly to backend pipelines.
+
+
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="Screenshots/admin_panel.png" width="300"/>
+  <img src="Screenshots/customer_app_premium_ui.png" width="300"/>
+  <img src="Screenshots/checkout_stripe.png" width="300"/>
+  <img src="Screenshots/kitchen_display.png" width="300"/>
+  <img src="Screenshots/rider_app.png" width="300"/>
+</p>
